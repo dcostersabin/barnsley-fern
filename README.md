@@ -13,8 +13,8 @@ After all the libraries are installed
 ``python3 fern.py``
 
 ## Outputs
-![1000 Iteration]('https://github.com/dcostersabin/barnsley-fern/blob/main/iteration1000.png')
-![2000 Iteration]('https://github.com/dcostersabin/barnsley-fern/blob/main/iteration2000.png')
-![3000 Iteration]('https://github.com/dcostersabin/barnsley-fern/blob/main/iteration3000.png')
+![1000 Iteration]('./iteration1000.png')
+![2000 Iteration]('./iteration2000.png')
+![3000 Iteration]('./iteration3000.png')
 
 
